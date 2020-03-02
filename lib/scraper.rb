@@ -1,8 +1,8 @@
-require 'nokogiri'
-require 'open-uri'
+# require 'nokogiri'
+# require 'open-uri'
 
-html = open("https://flatironschool.com/")
-require 'nokogiri'
+# html = open("https://flatironschool.com/")
+# require 'nokogiri'
 require 'open-uri'
 
 require_relative './course.rb'
